@@ -6,3 +6,5 @@
 2) Pandas
 3) RFM 분석
 4) MovieLens Dataset Recommender Systems
+5) classification with scikit-learn
+6) Regression with scikit-learn
